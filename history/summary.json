@@ -4,19 +4,19 @@
     "url": "https://scpfoundation.miraheze.org",
     "icon": "https://icons.duckduckgo.com/ip3/scpfoundation.miraheze.org.ico",
     "slug": "scp-miraheze-cn-wiki",
-    "status": "down",
-    "uptime": "37.02%",
-    "uptimeDay": "37.02%",
-    "uptimeWeek": "37.02%",
-    "uptimeMonth": "37.02%",
-    "uptimeYear": "37.02%",
-    "time": 30,
-    "timeDay": 30,
-    "timeWeek": 30,
-    "timeMonth": 30,
-    "timeYear": 30,
+    "status": "up",
+    "uptime": "2.71%",
+    "uptimeDay": "2.71%",
+    "uptimeWeek": "2.71%",
+    "uptimeMonth": "2.71%",
+    "uptimeYear": "2.71%",
+    "time": 375,
+    "timeDay": 375,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2026-09-24": 0
+      "2026-09-24": 9
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 88,
-    "timeDay": 88,
-    "timeWeek": 88,
-    "timeMonth": 88,
-    "timeYear": 88,
+    "time": 116,
+    "timeDay": 116,
+    "timeWeek": 116,
+    "timeMonth": 116,
+    "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 189,
-    "timeWeek": 189,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "time": 180,
+    "timeDay": 180,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {}
   }
 ]
