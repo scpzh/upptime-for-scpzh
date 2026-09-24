@@ -5,6 +5,8 @@ repo: upptime-for-scpzh
 sites:
   - name: SCP Miraheze CN Wiki
     url: https://scpfoundation.miraheze.org
+    type: globalping
+    location: Singapore
   - name: Cloudflare
     url: https://www.cloudflare.com
   - name: GitHub
