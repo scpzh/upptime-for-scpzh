@@ -9,9 +9,10 @@ sites:
     location: Singapore
   - name: Cloudflare
     url: https://www.cloudflarestatus.com/api/v2/status.json
-    __dangerous__body_down_if_text_missing: '"description":"All Systems Operational"'
   - name: GitHub
     url: https://github.com
+  - name: Wikidot
+    url: https://www.wikidot.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
