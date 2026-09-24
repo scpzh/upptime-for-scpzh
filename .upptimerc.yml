@@ -19,11 +19,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.scpzh.org
   # baseUrl: /upptime-for-scpzh
-  logoUrl: /assets/scpmh-status-logo.svg
-  favicon: /assets/scpmh-status-logo.svg
+  logoUrl: https://cdn.jsdelivr.net/gh/scpzh/upptime-for-scpzh@master/assets/scpmh-status-logo.svg
+  favicon: https://cdn.jsdelivr.net/gh/scpzh/upptime-for-scpzh@master/assets/scpmh-status-logo.svg
   links:
     - rel: stylesheet
-      href: /assets/custom.css
+      href: https://cdn.jsdelivr.net/gh/scpzh/upptime-for-scpzh@master/assets/custom.css
   name: SCP-MH 状态页
   introTitle: "**欢迎来到 SCP Miraheze CN 状态页**"
   introMessage: "基于 **Upptime**，由GitHub Actions 与 Pages 驱动。"
