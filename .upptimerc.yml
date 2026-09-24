@@ -23,6 +23,7 @@ status-website:
   name: SCP Miraheze CN 状态页
   introTitle: "**SCP Miraheze CN Status Page** based on **Upptime**, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages.
+  navbar:
     - title: Status
       href: /
     - title: GitHub
