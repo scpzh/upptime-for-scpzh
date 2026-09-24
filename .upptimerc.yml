@@ -1,16 +1,14 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: scpzh
+repo: upptime-for-scpzh
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: SCP Miraheze CN Wiki
+    url: https://scpfoundation.miraheze.org
+  - name: Cloudflare
+    url: https://www.cloudflare.com
+  - name: GitHub
+    url: https://github.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
