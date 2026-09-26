@@ -52,4 +52,29 @@
     --graph-opacity: 0.85;
     --graph-filter: brightness(0.95) contrast(1.05);
   }
+
+  nav .logo img {
+  filter: invert(1) brightness(1.2);
+  }
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+@media (max-width: 640px) {
+  nav a.logo div,
+  nav .logo > div {
+    display: none !important;
+  }
+
+  header {
+    margin: 1.5rem 0 1.25rem;
+  }
+
+  header h1 {
+    font-size: 1.35rem;
+  }
 }

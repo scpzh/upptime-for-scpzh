@@ -7,6 +7,8 @@ sites:
     url: https://scpfoundation.miraheze.org
     type: globalping
     location: Singapore
+  - name: SCP Miraheze CN Forum
+    url: https://forum.scpzh.org/
   - name: Cloudflare
     url: https://www.cloudflarestatus.com/api/v2/status.json
   - name: GitHub
@@ -62,7 +64,7 @@ i18n:
   ms: 毫秒
   loading: 加载中
   navGitHub: GitHub
-  footer: "本页为[开源项目]($REPO)，基于 [Upptime](https://upptime.js.org) ，由 [SCP-MH](https://github.com/scpzh) 界面管理与技术支援组维护"
+  footer: "本页为[开源项目]($REPO)，基于 [Upptime](https://upptime.js.org) ，由 [SCP-MH IATT](https://github.com/scpzh) 维护"
   rateLimitExceededTitle: 超出请求频率限制
   rateLimitExceededIntro: 您在过去一小时内的请求次数已超限，请稍后访问。或者，您可以配置一个 GitHub 个人访问令牌 (Personal Access Token) 以继续使用本站。
   rateLimitExceededWhatDoesErrorMean: 此错误代表什么？
