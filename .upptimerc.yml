@@ -9,6 +9,8 @@ sites:
     location: Singapore
   - name: SCP Miraheze CN Forum
     url: https://forum.scpzh.org/
+  - name: SCP Miraheze CN Navigation
+    url: https://scpzh.org/
   - name: Cloudflare
     url: https://www.cloudflarestatus.com/api/v2/status.json
   - name: GitHub
