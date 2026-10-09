@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 943,
-    "timeDay": 679,
-    "timeWeek": 690,
-    "timeMonth": 943,
-    "timeYear": 943,
+    "time": 933,
+    "timeDay": 646,
+    "timeWeek": 663,
+    "timeMonth": 933,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2026-09-24": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 776,
-    "timeDay": 740,
-    "timeWeek": 726,
-    "timeMonth": 776,
-    "timeYear": 776,
+    "time": 992,
+    "timeDay": 4228,
+    "timeWeek": 1165,
+    "timeMonth": 992,
+    "timeYear": 992,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 341,
-    "timeDay": 388,
-    "timeWeek": 341,
-    "timeMonth": 341,
-    "timeYear": 341,
+    "time": 1050,
+    "timeDay": 3887,
+    "timeWeek": 1050,
+    "timeMonth": 1050,
+    "timeYear": 1050,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 182,
-    "timeDay": 70,
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 181,
+    "timeDay": 154,
     "timeWeek": 207,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2026-09-24": 7
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 223,
-    "timeDay": 47,
-    "timeWeek": 142,
-    "timeMonth": 223,
-    "timeYear": 223,
+    "time": 227,
+    "timeDay": 342,
+    "timeWeek": 167,
+    "timeMonth": 227,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 26,
-    "timeWeek": 174,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "time": 218,
+    "timeDay": 301,
+    "timeWeek": 175,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   }
 ]
