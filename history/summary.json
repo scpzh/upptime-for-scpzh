@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/scpfoundation.miraheze.org.ico",
     "slug": "scp-miraheze-cn-wiki",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 933,
-    "timeDay": 646,
-    "timeWeek": 663,
-    "timeMonth": 933,
-    "timeYear": 933,
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 924,
+    "timeDay": 681,
+    "timeWeek": 671,
+    "timeMonth": 924,
+    "timeYear": 924,
     "dailyMinutesDown": {
       "2026-09-24": 9
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 4228,
-    "timeWeek": 1165,
-    "timeMonth": 992,
-    "timeYear": 992,
+    "time": 979,
+    "timeDay": 767,
+    "timeWeek": 1169,
+    "timeMonth": 979,
+    "timeYear": 979,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1050,
-    "timeDay": 3887,
-    "timeWeek": 1050,
-    "timeMonth": 1050,
-    "timeYear": 1050,
+    "time": 928,
+    "timeDay": 318,
+    "timeWeek": 928,
+    "timeMonth": 928,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 181,
-    "timeDay": 154,
+    "time": 183,
+    "timeDay": 229,
     "timeWeek": 207,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2026-09-24": 7
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 342,
-    "timeWeek": 167,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 225,
+    "timeDay": 152,
+    "timeWeek": 147,
+    "timeMonth": 225,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 301,
-    "timeWeek": 175,
-    "timeMonth": 218,
-    "timeYear": 218,
+    "time": 219,
+    "timeDay": 262,
+    "timeWeek": 182,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   }
 ]
