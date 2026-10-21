@@ -4,20 +4,20 @@
     "url": "https://scpfoundation.miraheze.org",
     "icon": "https://icons.duckduckgo.com/ip3/scpfoundation.miraheze.org.ico",
     "slug": "scp-miraheze-cn-wiki",
-    "status": "down",
-    "uptime": "98.72%",
-    "uptimeDay": "66.08%",
-    "uptimeWeek": "95.15%",
-    "uptimeMonth": "98.72%",
-    "uptimeYear": "98.72%",
-    "time": 848,
-    "timeDay": 752,
-    "timeWeek": 673,
-    "timeMonth": 848,
-    "timeYear": 848,
+    "status": "up",
+    "uptime": "97.73%",
+    "uptimeDay": "38.61%",
+    "uptimeWeek": "91.23%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
+    "time": 843,
+    "timeDay": 710,
+    "timeWeek": 668,
+    "timeMonth": 843,
+    "timeYear": 843,
     "dailyMinutesDown": {
       "2026-09-24": 9,
-      "2026-10-21": 488
+      "2026-10-21": 884
     }
   },
   {
